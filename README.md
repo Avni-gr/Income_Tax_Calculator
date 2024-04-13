@@ -7,7 +7,7 @@ This is a simple web-based income tax calculator built using HTML, CSS, and Java
 
 - [Overview](#overview)
   - [Features](#Features)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -21,13 +21,15 @@ This is a simple web-based income tax calculator built using HTML, CSS, and Java
 -Displays the calculated tax amount and overall income after tax deduction in a modal popup.
 -Error handling for empty input fields and invalid input.
 
-### Screenshot
+### Screenshots
 
-![](https://github.com/Avni-gr/Calculator_Project/blob/main/Screenshot%202024-04-10%20190002.png?raw=true)
+![](https://github.com/Avni-gr/Income_Tax_Calculator/blob/main/Screenshot%202024-04-13%20222016.png?raw=true)
+![](https://github.com/Avni-gr/Income_Tax_Calculator/blob/main/Screenshot%202024-04-13%20222028.png?raw=true)
+
 
 ### Links
 
-- Live Site URL: (https://avni-gr.github.io/Calculator_Project/)
+- Live Site URL: (https://avni-gr.github.io/Income_Tax_Calculator/)
 
 ## My process
 
