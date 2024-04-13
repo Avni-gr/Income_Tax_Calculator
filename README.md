@@ -15,11 +15,11 @@ This is a simple web-based income tax calculator built using HTML, CSS, and Java
 ## Overview
 
 ### Features:
--Input fields for gross annual income, extra income, age group, and applicable deductions.
--Automatic calculation of taxable income based on the provided inputs.
--Different tax rates applied based on the age group: <40, ≥ 40 & < 60, and ≥ 60.
--Displays the calculated tax amount and overall income after tax deduction in a modal popup.
--Error handling for empty input fields and invalid input.
+- Input fields for gross annual income, extra income, age group, and applicable deductions.
+- Automatic calculation of taxable income based on the provided inputs.
+- Different tax rates applied based on the age group: <40, ≥ 40 & < 60, and ≥ 60.
+- Displays the calculated tax amount and overall income after tax deduction in a modal popup.
+- Error handling for empty input fields and invalid input.
 
 ### Screenshots
 
